@@ -7,10 +7,12 @@ Mono (Required for Godot)
 - [Debian-based instructions](https://www.mono-project.com/download/stable/#download-lin)
 - Arch: `mono`
 - Fedora: `mono-devel`
+
 ImageMagick (Required for the script. Could already be installed since it is a popular dependancy)
 - Debian-based: `imagemagick`
 - Arch: `imagemagick `
 - Fedora: `ImageMagick`
+
 ### Recommended (Unsure if it is necesarry)
 .NET (Latest version is 8.0 as of latest commit)
 - Debian-based: `dotnet-sdk-<version>`
