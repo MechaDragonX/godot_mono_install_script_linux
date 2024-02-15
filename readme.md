@@ -18,5 +18,5 @@ Adapted from [SingingBush/godot-fedora.md](https://gist.github.com/SingingBush/a
 - Arch AUR: `dotnet-sdk-<version>`
 - Fedora: `dotnet-sdk-<version>`
 
-## This script only works for v4.2.1 and acts as a first time install as it downloads and icon and creates a launcher.
+## This script only works for v4.2.1 and acts as a first time install as it downloads an icon and creates a launcher.
 I hope to make this work as an update script as well.
