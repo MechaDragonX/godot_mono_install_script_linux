@@ -8,5 +8,5 @@ Mono
 - Arch: `mono`
 - Fedora: `mono-devel`
 
-## This script only works for v4.2.1 and acts as a first time as it downloads and icon and creates a launcher.
+## This script only works for v4.2.1 and acts as a first time install as it downloads and icon and creates a launcher.
 I hope to make this work as an update script as well.
