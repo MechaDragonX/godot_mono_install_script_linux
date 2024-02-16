@@ -14,9 +14,10 @@ Adapted from [SingingBush/godot-fedora.md](https://gist.github.com/SingingBush/a
 
 ### Recommended (Unsure if it is necesarry)
 .NET (Latest version is 8.0 as of latest commit)
-- Debian-based: `dotnet-sdk-<version>`
-- Arch AUR: `dotnet-sdk-<version>`
-- Fedora: `dotnet-sdk-<version>`
+- The command is the same for every package manager and follows the format `dotnet-sdk-<version>`. It's available on the following the distos using the latest version as an example.
+    - Debian-based: `dotnet-sdk-8.0`
+    - Arch AUR: `dotnet-sdk-8.0`
+    - Fedora: `dotnet-sdk-8.0`
 
 ## This script only works for v4.2.1 and acts as a first time install as it downloads an icon and creates a launcher.
 I hope to make this work as an update script as well.
