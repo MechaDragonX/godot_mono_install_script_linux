@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Download, extract, and move Godot files to /opt
 wget https://github.com/godotengine/godot/releases/download/4.2.1-stable/Godot_v4.2.1-stable_mono_linux_x86_64.zip
 unzip Godot_v4.2.1-stable_mono_linux_x86_64.zip
